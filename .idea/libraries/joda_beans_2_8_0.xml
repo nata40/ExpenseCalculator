@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="joda-beans-2.8.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/joda-beans-2.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
